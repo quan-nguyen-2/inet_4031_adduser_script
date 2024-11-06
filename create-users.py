@@ -1,3 +1,9 @@
+#### Quan Nguyen    
+#### Create-user
+#### Program Creation Date: 11/3/2024
+#### Program Last Updated Date: 11/6/2024
+
+
 #!/usr/bin/python3
 
 #what are these imports being used for?
